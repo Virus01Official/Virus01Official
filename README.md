@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="./trans-flag.svg" width="180" />
+<img src="./trans.svg" width="180" />
 <!--
 **Virus01Official/Virus01Official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
