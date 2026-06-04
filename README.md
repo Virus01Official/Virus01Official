@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+A silly girl that makes games and sometimes other stuff
+
 <img src="./trans.svg" width="180" />
 <!--
 **Virus01Official/Virus01Official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
